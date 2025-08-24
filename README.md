@@ -1,4 +1,4 @@
-<h1 align="left">Backend Developer | TypeScript | NestJS | PostgreSQL | Docker</h1>
+<h2 align="left">Backend Developer | TypeScript | NestJS | PostgreSQL | Docker</h1>
 
 ---
 
