@@ -1,7 +1,4 @@
 <h2 align="left">Backend Developer | TypeScript | NestJS | PostgreSQL | Docker</h1>
-
----
-
 <h2 align="left">Tech Stack</h2>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
